@@ -1,3 +1,10 @@
+.DS_Store
+*.bak
+*.log
+.idea
+.scannerwork
+sonarqube-logs
+
 # Prerequisites
 *.d
 
