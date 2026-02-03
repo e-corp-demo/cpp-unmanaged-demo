@@ -43,6 +43,7 @@ Afterwards, you can view the vulnerabilities detected in the SonarQube dashboard
 
 ## Questions & Contact
 
-Mathias Conradt, Security Solutions Engineer at Sonar
-https://www.linkedin.com/in/mathiasconradt/
+**Mathias Conradt**  
+Security Solutions Engineer at Sonar  
+https://www.linkedin.com/in/mathiasconradt/  
 https://x.com/mathiasconradt
